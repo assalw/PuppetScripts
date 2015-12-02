@@ -1,5 +1,5 @@
 # PuppetScripts
-Collection of scripts managing a Puppet environment.
+Collection of scripts for managing a Puppet environment.
 
 #### puppet_kick.py
 Puppet kick all nodes registered with the Puppet master without LDAP. This is an alternative for "puppet kick --all".
