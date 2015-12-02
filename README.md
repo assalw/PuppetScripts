@@ -13,4 +13,4 @@ Install en configure a puppet agent on an FreeBSD machine.
 #### puppet_master_install.sh
 Install en configure a puppet master on an FreeBSD machine.
 
-- **Usage: -h \<puppetmaster_hostname\>**
+- Usage: **-h \<puppetmaster_hostname\>**
